@@ -1,9 +1,18 @@
+body {
+  background-color: black;
+}
+
 p {
-   color: black;
+   color: white;
   text-align: center;
 }
 
 h1 {
-color: black;
+color: white;
+  text-align: center;
+}
+
+h2 {
+color: red
   text-align: center;
 }
