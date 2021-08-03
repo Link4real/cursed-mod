@@ -1,34 +1,29 @@
 h1 {
 color: white;
 text-align: center;
- font-family: "Minecraft";
 }
 
 
 h2 {
 color: white;
  text-align: center;
- font-family: "Minecraft";
 }
 
 
 h3 {
 color: white;
  text-align: center;
- font-family: "Minecraft";
 }
 
 h4 {
 color: white;
  text-align: center;
- font-family: "Minecraft";
 }
 
 
 p {
 color: white;
 text-align: center;
- font-family: "Minecraft";
 }
 
 body {
@@ -44,12 +39,11 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333;
- font-family: "Minecraft";
 }
 
 li {
   float: left;
- font-family: "Minecraft";
+     border-right: 1px solid #bbb;
 }
 
 li a {
@@ -58,7 +52,6 @@ li a {
   text-align: center;
   padding: 20px 16px;
   text-decoration: none;
- font-family: "Minecraft";
 }
 
 li a:hover {
@@ -78,5 +71,8 @@ background-color: #4a4a4a;
 a {
 color: white;
   text-align: center;
-  font-family: "Minecraft";
+}
+
+li:last-child {
+  border-right: none;
 }
